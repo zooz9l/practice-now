@@ -1,10 +1,8 @@
 Song for Git
 Nothing else
-1
-2
-3
-4
-5
-6
-7
-_________
+3rd line
+4th line
+5th 
+6th
+7th
+8th
