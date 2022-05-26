@@ -17,12 +17,4 @@ _________
 6
 7
 
-10
-9
-8
-7
-6
-5
-4
-
-for tags
+content to be saved
